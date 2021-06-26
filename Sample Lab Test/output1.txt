@@ -1,0 +1,28 @@
+double => TYPE SPECIFIER
+main => FUNCTION NAME
+( => LP
+) => RP
+{ => LB
+float => TYPE SPECIFIER
+c => ID
+= => ASSIGN
+12 => INT
+; => SEMI
+int => TYPE SPECIFIER
+b => ID
+= => ASSIGN
+10.0 => FLOAT
+; => SEMI
+while => LOOP KEYWORD
+( => LP
+1 => INT
+) => RP
+{ => LB
+a => ID
+= => ASSIGN
+b => ID
++ => ADD
+c => ID
+; => SEMI
+} => RB
+} => RB
